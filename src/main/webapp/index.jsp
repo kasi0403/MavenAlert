@@ -1,6 +1,7 @@
 <html>
 <body>
 <form onSubmit=greet(event)>
+<h1>Name Form</h1>
 <label>First Name:</label>
 <input type="text" id="fname" placeholder="type here"/><br/>
 <label>Last Name:</label>
